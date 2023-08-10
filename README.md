@@ -4,7 +4,7 @@
 
  - 💻 I have Intermediate skills in the field of **Frontend Web Development and Cpp**.
 - 🌱 I’m currently learning **Backend Development Using NodeJs, ExpressJS and MongoDB and DSA in Cpp**
-- 👨‍💻 All of my projects are available at [https://nishant-bindhani.github.io/Portfolio-Neo/](https://nishant-bindhani.github.io/Portfolio-Neo/)
+- 👨‍💻 All of my projects are available at [https://nishant-bindhani.github.io/Portfolio-Neo/](https://nishant-bindhani.github.io/Portfolio-Neo/) (under Maintainance)
 - 👯 Always Open to Contribute. 
 - 📫 How to reach me **bindhaninishant12@gmail.com**
 
