@@ -3,7 +3,10 @@
 <h3 align="center">I'm a 3rd Year student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
  - 💻 I have Intermediate skills in the field of **Frontend Web Development and Cpp**.
-- 🌱 I’m currently learning **Backend Development Using NodeJs, ExpressJS and MongoDB and DSA in Cpp**
+- 🌱 I’m currently learning **Backend Development Using NodeJs, ExpressJS and MongoDB.**
+- 👨‍💻  Successfully solved over *400 Data Structures and Algorithms*
+  DSA problems on various coding platforms including
+   **LeetCode, CodeStudio And GeeksforGeeks.**
 - 👨‍💻 All of my projects are available at https://neo-port.vercel.app/ (under Maintainance)
 - 👯 Always Open to Contribute. 
 - 📫 How to reach me **bindhaninishant12@gmail.com**
