@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Bindhani</h1>
 <h3 align="center">I'm a 3rd Year student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
- - 💻 I have Intermediate skills in the field of **Frontend Web Development and Cpp**.
+ - 💻 I have Intermediate skills in the field of **Frontend Web Development**.
 - 🌱 I’m currently learning **Backend Development Using NodeJs, ExpressJS and MongoDB.**
 - 👨‍💻  Successfully solved over *400 Data Structures and Algorithms*
   DSA problems on various coding platforms including
