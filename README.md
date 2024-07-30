@@ -1,6 +1,6 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 <h1 align="center">Hi 👋, I'm Nishant Bindhani</h1>
-<h3 align="center">I'm a 3rd Year student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
+<h3 align="center">I'm a Final Year student who is passionate about writing code, solving problems, automating stuff, and building software.</h3>
 
  - 💻 I have Intermediate skills in the field of **Frontend Web Development**.
 - 🌱 I’m currently learning **Backend Development Using NodeJs, ExpressJS and MongoDB.**
