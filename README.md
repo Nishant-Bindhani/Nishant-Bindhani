@@ -7,7 +7,6 @@
 - 👨‍💻  Successfully solved over *400 Data Structures and Algorithms*
   DSA problems on various coding platforms including
    **LeetCode, CodeStudio And GeeksforGeeks.**
-- 👨‍💻 All of my projects are available at https://neo-port.vercel.app/
 - 👯 Always Open to Contribute. 
 - 📫 How to reach me **bindhaninishant12@gmail.com**
 
